@@ -63,7 +63,7 @@ gcc calculator.c tinyexpr.c -o calc.exe -lgdi32
 
 **Yousef Hamdy**  
 [GitHub](https://github.com/yousef-788)  
-[LinkedIn](www.linkedin.com/in/yousef-hamdy-ee)
+[LinkedIn](https://www.linkedin.com/in/yousef-hamdy-ee)
 
 ---
 
