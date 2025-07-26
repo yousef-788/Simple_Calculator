@@ -43,9 +43,23 @@ gcc calculator.c tinyexpr.c -o calc.exe -lgdi32
 
 ---
 
-## 📸 Preview
+## 🖼️ Screenshots
 
-> *(Add screenshot here when available)*
+### 1️⃣ Main Calculator Interface
+This is the main calculator window showing the button layout and user-friendly interface.
+![Main Interface](https://github.com/yousef-788/Simple_Calculator/blob/master/assets/Screenshot%202025-07-26%20115135.png)
+
+---
+
+### 2️⃣ Matrix Operations
+Demonstrates matrix-related functionalities like determinant and cofactor calculations.
+![Matrix Operations](https://github.com/yousef-788/Simple_Calculator/blob/master/assets/Screenshot%202025-07-26%20115250.png)
+
+---
+
+### 3️⃣ Complex Number Support
+Displays calculator handling complex numbers in algebraic form using the 'i' notation.
+![Complex Number Support](https://github.com/yousef-788/Simple_Calculator/blob/master/assets/Screenshot%202025-07-26%20115322.png)
 
 ---
 
