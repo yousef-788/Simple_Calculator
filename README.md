@@ -73,7 +73,7 @@ Displays calculator handling complex numbers in algebraic form using the 'i' not
 
 ---
 
-## 🧑‍💻 Author
+## 💻 Author
 
 **Yousef Hamdy**  
 [GitHub](https://github.com/yousef-788)  
